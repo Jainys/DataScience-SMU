@@ -45,7 +45,7 @@ People on Mac's have been having issues and have to use the citrix version. I do
 - We created a Google Hangout that has an on-going discussion about upcoming assignments (and some social stuff too). Its extremely helpful, if nothing else just to have everyone else to ask "when's this due again?".
 - Be part of the community and discussions.
 - Try to connect with people in different sections. Some weeks, one section may get further in a lecture than other weeks, so it'd good to have someone else to compare to that has a slightly different perspective.
-- SMU uses Office365 for Business, so you'll get a OneDrive folder (as well as licenses for the Office suite). This, dropbox, googledrive...will be helpful to share with everyone.
+- SMU uses Office365 for Business, so you'll get a OneDrive folder (as well as licenses for the Office suite). This, dropbox, googledrive...will be helpful to share with everyone.  Note that the OneDrive option provided by SMU is unlimited storage so it is a great place to share class videos that you recorded on your own.  Also, if you plan to review/work on classwork from multiple computers, using the personal folders in OneDrive is a great repository.
 - Get your equipment and materials ready BEFORE the first class.  Go ahead and upgrade that laptop now.  Install SAS per the instructions provided.  Get that extra monitor you were thinking about.  Get your books at least 2 weeks before the first session.  You will have assignments and async material that are due PRIOR to your first stats class.
 - Go to 2ds and poke around.  It's worth it to be familiar with the delivery mechanism that you will be using.  Practice using the mobile version - there are differences
 
